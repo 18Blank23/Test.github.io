@@ -1,0 +1,1151 @@
+
+  
+  .nav-container {
+    height: 100%;
+    margin-left: 8%;
+
+  }
+  
+  .logo a {
+   background-image: url(Sunlife.png);
+   background-size: cover;
+   background-position: center;
+    position: absolute;
+    height: 4%;
+    width: 9%;
+    margin-left: 20%;
+    top: 4%;
+    left:0%;
+  }
+  
+  .menu ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    top: 3%;
+    font-size: 20px;
+    left:30%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+  
+  .menu li {
+    margin: 0 45px;
+    top:10px;
+    text-decoration: none;
+  }
+  
+  .menu{
+    text-decoration: none;
+    color: #083946;
+    background-color: #fff;
+    height: 80px;
+    margin-right: 10%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    top:-1%;
+  
+    
+  }
+  .yellow{
+    height: 90px;
+    width: 80%;
+    background-color: #eaab00;
+    margin-top: 2%;
+    position: absolute;
+    top: -13%;
+    margin-right: 10%;
+   margin-left: 8%;
+
+  }
+ 
+  .sign-in{
+    position: absolute;
+    right: 0%;
+    margin-right: 20%;
+    top: 1.5%;
+    color: #083946;
+    font-family: Verdana;
+  
+  }
+  .sign-in p{
+    background-color: #eaab00;
+   
+    
+  }
+  .sign-in button{
+    background-color: #eaab00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: #fff;
+    color: #083946;
+    
+  }
+  .all-policies{
+  margin-left: 20%;
+  position: absolute;
+  top: 13%;
+}
+.life-super{
+  width: 60%;
+  margin-left: 20%;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  
+  margin-top: 4%;
+  background-image: url(apple.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-right: 10%;
+  padding-bottom: 1%;
+  display:inline-block;
+
+}
+.life-super p{
+  margin-left: 3%;
+  color: #083946;
+}
+.life-super h1{
+  margin-left: 3%;
+}
+.life-super p2{
+  
+  color: #083946;
+  font-family: 'Franklin Gothic Medium';
+  margin-top: 1%;
+  margin-left: 3%;
+}
+#information{
+  
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#information .tabs{
+  display: flex;
+  width: 100%;
+  border-bottom: 10px solid #febe10;
+
+}
+.tabs button{
+  background-color: #003946;
+  color: white;
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+.tabs button:hover{
+  background-color: #febe10;
+  color: #003946;
+}
+.contact-icon{
+  background-image: url(icons/icon.png);
+  background-size: cover;
+  height: 20px;
+  width: 21px;
+  margin-left: 3%;
+  
+}
+.switch-icon{
+  background-image: url(icons/switch.png);
+  background-size: cover;
+  height: 20px;
+  width: 21px;
+  
+  position: absolute;
+  margin-left: 18%;
+}
+
+#information2{
+  padding-right: 35%;
+ 
+}
+#information2 .tabs2{
+  display: flex;
+  width: 100%;
+  border-bottom: 10px solid #febe10;
+
+}
+
+.tabs2 button2{
+  background-color: #fff;
+  color: #003946;
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+ 
+}
+
+.tabs2 button2:hover{
+  background-color: #febe10;
+  color: #003946;
+}
+
+.Fund-performance-content{
+  height: 50%;
+  width: 155%;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+table{
+  padding-left: 15%;
+}
+tr{
+  padding-left: 20%;
+}
+td{
+  padding:10px;
+}
+.Fund-performance-content h2{
+  margin-left: 18%;
+  color: #003946;
+}
+  
+.Billing-content{
+  height: 50%;
+  width: 155%;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  padding-bottom: 10%;
+}
+.Billing-content h2{
+  margin-left: 18%;
+  color: #003946;
+}
+.Billing-content button{
+
+  color: #083946;
+  font-family: 'Franklin Gothic Medium';
+  background-color: #eaab00;
+  width: 30%;
+  margin-left: 20%;
+}
+.How-content{
+  height: 50%;
+  width: 155%;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  padding-bottom: 5%;
+}
+.footer{
+  height: 7%;
+  width: 85%;
+  background-color: #003946;
+  position: fixed;
+  bottom: 4%;
+  margin-left: 8%;
+
+}
+.footer p{
+  color: #eaab00;
+  position: absolute;
+  right:10%;
+  top: 20%;
+}
+.footer2{
+  height: 4%;
+  width: 85%;
+  background-color: #fff;
+  position: fixed;
+  bottom: 0;
+  margin-left: 8%;
+
+}
+.footer2 p{
+  display: inline;
+  margin-left: 50%;
+}
+.footer2 p2{
+  color: #003946;
+  margin-left: 10%;
+}
+.curve{
+  background-image: url(icons/flower.jpg);
+   background-size: cover;
+   background-position: center;
+  height: 15%;
+  width: 82%;
+  margin-left: 8%;
+  position: absolute;
+  background-color: aqua;
+  top: 11%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+.policy-content{
+  position: absolute;
+  top: 28%;
+  width: 100%;
+  height: 100%;
+  
+}
+.policy-content p{
+  text-align: center;
+}
+.policy-content h2{
+  margin-left: 5%;
+ 
+}
+.policy-content p2{
+  padding-bottom: 10%;
+}
+.policy-content h4{
+  margin-left: 5%;
+}
+.box1{
+  position: absolute;
+  top: 10%;
+  width: 20%;
+  height: 20%;
+  left: 25%;
+  border-radius: 10%;
+  background-color: azure;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.box2{
+  position: absolute;
+  top: 10%;
+  width: 20%;
+  height: 20%;
+  left: 50%;
+  border-radius: 10%;
+  background-color: azure;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.box3{
+  position: absolute;
+  top: 35%;
+  width: 20%;
+  height: 20%;
+  left: 25%;
+  border-radius: 10%;
+  background-color: azure;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.box4{
+  position: absolute;
+  top: 35%;
+  width: 20%;
+  height: 20%;
+  left: 50%;
+  border-radius: 10%;
+  background-color: azure;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.longbox{
+  position: absolute;
+  top: 60%;
+  width: 45%;
+  height: 45%;
+  left: 25%;
+  border-radius: 5%;
+  background-color: azure;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+ 
+}
+body{
+  padding-bottom: 10%;
+}
+.lasttext{
+  position: absolute;
+  top: 107%;
+  padding-bottom: 8%;
+  left: 25%;
+}
+.hospital{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  right: 10%;
+  top: 10%;
+  margin-top: 10%;
+}
+
+.heart{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  right: 10%;
+  top: 10%;
+  margin-top: 10%;
+}
+
+.ambulance{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  right: 10%;
+  top: 10%;
+  margin-top: 10%;
+}
+
+.ste{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  right: 10%;
+  top: 10%;
+  margin-top: 10%;
+}
+.flower{
+  position:absolute;
+  height: 100%;
+  width: 50%;
+  border-radius: 5%;
+}
+.longbox p{
+  margin-left: 50%;
+  margin-top: 15%;
+}
+.longbox h2{
+  color: #003946;
+  margin-left: 50%;
+ 
+}
+  @media (min-width: 1025px) and (max-width: 1280px) {
+  
+    /* CSS */
+    .menu ul {
+      text-decoration: none;
+      list-style: none;
+      display: flex;
+      padding: 0;
+      position: absolute;
+      top: 3%;  
+      font-size: 13px;
+      left:15%;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+    }
+
+    .box1{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box2{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box3{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box4{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .longbox{
+      position: absolute;
+      top: 60%;
+      width: 65%;
+      height: 45%;
+      left: 15%;
+      border-radius: 5%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+     
+    }
+    .lasttext{
+      position: absolute;
+      top: 107%;
+      padding-bottom: 15%;
+      left: 15%;
+    }
+    .footer2 p{
+      display: inline;
+      margin-left: 30%;
+    }
+    .footer2 p2{
+      color: #003946;
+      
+    }
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    .menu ul {
+      text-decoration: none;
+      list-style: none;
+      display: flex;
+      padding: 0;
+      position: absolute;
+      top: 3%;  
+      font-size: 13px;
+      left:15%;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+    }
+    .menu li {
+      margin: 0 24px;
+      top:10px;
+      text-decoration: none;
+    }
+    .box1{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box2{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box3{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box4{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .longbox{
+      position: absolute;
+      top: 60%;
+      width: 65%;
+      height: 45%;
+      left: 15%;
+      border-radius: 5%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+     
+    }
+    .hospital{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    .heart{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    
+    .ambulance{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    
+    .ste{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    .flower{
+      position:absolute;
+      height: 100%;
+      width: 50%;
+      border-radius: 5%;
+    }
+    .lasttext{
+      position: absolute;
+      top: 107%;
+      padding-bottom: 15%;
+      left: 15%;
+    }
+    .footer2 p{
+      display: inline;
+      margin-left: 30%;
+    }
+    .footer2 p2{
+      color: #003946;
+      
+    }
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    .menu ul {
+      text-decoration: none;
+      list-style: none;
+      display: flex;
+      padding: 0;
+      position: absolute;
+      top: 5%;  
+      font-size: 10px;
+      left:8%;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+    }
+    .menu li {
+      margin: 0 10px;
+      top:10px;
+      text-decoration: none;
+    }
+    .box1{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box2{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box3{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box4{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .longbox{
+      position: absolute;
+      top: 60%;
+      width: 65%;
+      height: 45%;
+      left: 15%;
+      border-radius: 5%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+     
+    }
+    .hospital{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    .heart{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    
+    .ambulance{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    
+    .ste{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    .flower{
+      position:absolute;
+      height: 100%;
+      width: 50%;
+      border-radius: 5%;
+    }
+    .lasttext{
+      position: absolute;
+      top: 107%;
+      padding-bottom: 25%;
+      left: 15%;
+    }
+    .footer2 p{
+      display: inline;
+      margin-left: 20%;
+      font-size: 8px;
+    }
+    .footer2 p2{
+      color: #003946;
+      font-size: 8px;
+    }
+
+    .sign-in{
+      position: absolute;
+      right: 0%;
+      margin-right: 10%;
+      top: 1.5%;
+      color: #083946;
+      font-family: Verdana;
+      font-size: 10px;
+    }
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    .menu ul {
+      text-decoration: none;
+      list-style: none;
+      display: flex;
+      padding: 0;
+      position: absolute;
+      top: 3%;  
+      font-size: 13px;
+      left:15%;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+    }
+
+    .box1{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box2{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box3{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box4{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .longbox{
+      position: absolute;
+      top: 60%;
+      width: 65%;
+      height: 45%;
+      left: 15%;
+      border-radius: 5%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+     
+    }
+    .lasttext{
+      position: absolute;
+      top: 107%;
+      padding-bottom: 15%;
+      left: 15%;
+    }
+    .footer2 p{
+      display: inline;
+      margin-left: 30%;
+    }
+    .footer2 p2{
+      color: #003946;
+      
+    }
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    .menu ul {
+      text-decoration: none;
+      list-style: none;
+      display: flex;
+      padding: 0;
+      position: absolute;
+      top: 3%;  
+      font-size: 13px;
+      left:15%;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+    }
+    .menu li {
+      margin: 0 24px;
+      top:10px;
+      text-decoration: none;
+    }
+    .box1{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box2{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box3{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box4{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .longbox{
+      position: absolute;
+      top: 60%;
+      width: 65%;
+      height: 45%;
+      left: 15%;
+      border-radius: 5%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+     
+    }
+    .hospital{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    .heart{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    
+    .ambulance{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    
+    .ste{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 10%;
+      margin-top: 10%;
+    }
+    .flower{
+      position:absolute;
+      height: 100%;
+      width: 50%;
+      border-radius: 5%;
+    }
+    .lasttext{
+      position: absolute;
+      top: 107%;
+      padding-bottom: 15%;
+      left: 15%;
+    }
+    .footer2 p{
+      display: inline;
+      margin-left: 30%;
+    }
+    .footer2 p2{
+      color: #003946;
+      
+    }
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    .menu ul {
+      text-decoration: none;
+      list-style: none;
+      display: flex;
+      padding: 0;
+      position: absolute;
+      top: 5%;  
+      font-size: 10px;
+      left:8%;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+    }
+    .menu li {
+      margin: 0 10px;
+      top:10px;
+      text-decoration: none;
+    }
+    .box1{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box2{
+      position: absolute;
+      top: 10%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box3{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 15%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .box4{
+      position: absolute;
+      top: 35%;
+      width: 30%;
+      height: 20%;
+      left: 50%;
+      border-radius: 10%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .longbox{
+      position: absolute;
+      top: 60%;
+      width: 65%;
+      height: 45%;
+      left: 15%;
+      border-radius: 5%;
+      background-color: azure;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+     
+    }
+    .hospital{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    .heart{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    
+    .ambulance{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    
+    .ste{
+      position: absolute;
+      height: 30px;
+      width: 30px;
+      right: 10%;
+      top: 30%;
+      margin-top: 10%;
+    }
+    .flower{
+      position:absolute;
+      height: 100%;
+      width: 50%;
+      border-radius: 5%;
+    }
+    .lasttext{
+      position: absolute;
+      top: 107%;
+      padding-bottom: 25%;
+      left: 15%;
+    }
+    .footer2 p{
+      display: inline;
+      margin-left: 20%;
+      font-size: 8px;
+    }
+    .footer2 p2{
+      color: #003946;
+      font-size: 8px;
+    }
+
+    .sign-in{
+      position: absolute;
+      right: 0%;
+      margin-right: 10%;
+      top: 1.5%;
+      color: #083946;
+      font-family: Verdana;
+      font-size: 10px;
+    }
+  }
